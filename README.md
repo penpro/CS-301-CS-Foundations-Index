@@ -6,3 +6,5 @@ Based on readings from - Computer Science: An Interdisciplinary Approach by Robe
 Week One - https://github.com/penpro/CS301_WeekOne
 
 Week Two - https://github.com/penpro/CS301_WeekTwo
+
+Week Three - https://github.com/penpro/CS301_WeekThree
