@@ -94,15 +94,9 @@ Repo: <https://github.com/penpro/CS301_WeekThree>
 - Java examples assume the Princeton stdlib (`StdIn`, `StdOut`, `StdDraw`) is available in the project.  
 - Prefer small drivers/clients that read from stdin and write to stdout (easy to test with redirection).  
 - Keep functions single-purpose; isolate I/O at the edges.  
-- No em dashes in writeups, per style preference.
+
 
 ---
 
 © 2025 Wesley Weaver — CS-301 Personal Guide
-""")
 
-out_path = "/mnt/data/README_UPDATED.md"
-with open(out_path, "w", encoding="utf-8") as f:
-    f.write(md)
-
-out_path
