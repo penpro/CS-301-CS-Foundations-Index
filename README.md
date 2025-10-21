@@ -14,6 +14,7 @@ md = dedent("""
 - Week 1 — Getting started, PSVM anatomy, early expressions → <https://github.com/penpro/CS301_WeekOne>
 - Week 2 — Arrays, StdIn/StdOut, StdDraw, and PageRank client bits → <https://github.com/penpro/CS301_WeekTwo>
 - Week 3 — Chapter 2: Functions (libraries, recursion, classic problems) → <https://github.com/penpro/CS301_WeekThree>
+- Week 4 - Cahpter 3: Object Oriente Programming ->  <https://github.com/penpro/CS301_WeekFour>
 
 ---
 
@@ -66,7 +67,11 @@ Repo: <https://github.com/penpro/CS301_WeekTwo>
 Repo: <https://github.com/penpro/CS301_WeekThree>
 
 ---
+## Week 4 — Functions (Chapter 3)
+- Object Oriented Programming
+- Building classes
 
+---
 ## Reference Links (Booksite & Stdlib)
 - Chapter 2 (Functions) — <https://introcs.cs.princeton.edu/java/20functions/>
 - Arrays (1.4) — <https://introcs.cs.princeton.edu/java/14array/>
