@@ -70,6 +70,9 @@ Repo: <https://github.com/penpro/CS301_WeekThree>
 ## Week 4 — Functions (Chapter 3)
 - Object Oriented Programming
 - Building classes
+  **Where to look**
+- The repo README collects snippets and links back to the booksite for details.  
+Repo: <https://github.com/penpro/CS301_WeekFour>
 
 ---
 ## Reference Links (Booksite & Stdlib)
