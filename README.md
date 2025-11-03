@@ -14,7 +14,9 @@ md = dedent("""
 - Week 1 — Getting started, PSVM anatomy, early expressions → <https://github.com/penpro/CS301_WeekOne>
 - Week 2 — Arrays, StdIn/StdOut, StdDraw, and PageRank client bits → <https://github.com/penpro/CS301_WeekTwo>
 - Week 3 — Chapter 2: Functions (libraries, recursion, classic problems) → <https://github.com/penpro/CS301_WeekThree>
-- Week 4 - Cahpter 3: Object Oriente Programming ->  <https://github.com/penpro/CS301_WeekFour>
+- Week 4 - Chapter 3: Object Oriented Programming ->  <https://github.com/penpro/CS301_WeekFour>
+- Week 5 - Chapter 4: Data Structures -> <https://github.com/penpro/CS301_WeekFive>
+- Week 6  - Chapter 6: Theory of Computing -> <https://github.com/penpro/CS301_WeekSix>
 
 ---
 
